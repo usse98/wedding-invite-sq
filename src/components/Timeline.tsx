@@ -13,7 +13,7 @@ export default function Timeline() {
           <p className="eyebrow">Dita</p>
           <h2 className="display mt-3 text-4xl gold-text sm:text-5xl">Filli i ditës</h2>
           <p className="mt-3 text-sm text-cream/75 sm:text-base">
-            Nga «po»-ja e mëngjesit deri te vallet e fundit mbi liqen.
+            Nga «po»-ja e mëngjesit deri te kërcimet e fundit mbi liqen.
           </p>
           <div className="divider mx-auto mt-4 w-24" />
         </div>

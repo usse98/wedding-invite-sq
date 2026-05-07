@@ -109,8 +109,8 @@ export const config = {
     },
     {
       time: '17:30',
-      title: 'Festa rinis në tarracën e liqenit',
-      text: 'Pas drekës kthehemi te liqeni: drita më të buta, ajër më i freskët, biseda që zgjaten ndërsa përgatitemi për mbrëmjen.',
+      title: 'Kthehemi në tarracën mbi liqen',
+      text: 'Nga restoranti kthehemi në Castel Toblino, në tarracën mbi liqen: drita e shtatorit bëhet e artë, ajri më i freskët, ndonjë dolli dhe bisedë para prerjes së tortës.',
       icon: 'terrace' as TimelineIcon,
       image: ''
     },
@@ -123,8 +123,8 @@ export const config = {
     },
     {
       time: '18:30 – 00:00',
-      title: 'Nga vallja e parë te pista',
-      text: 'Një valle vetëm e jona, pastaj muzika merr komandën: DJ set, të qeshura dhe disa hapa që nuk kishin pse të ishin perfektë — por do të jenë tonët.',
+      title: 'Nga kërcimi i parë te pista',
+      text: 'Një kërcim vetëm i yni, pastaj muzika merr komandën: DJ set, të qeshura dhe disa hapa që nuk kishin pse të ishin perfektë — por do të jenë tonët.',
       icon: 'dance' as TimelineIcon,
       image: ''
     },
@@ -167,7 +167,7 @@ export const config = {
     paragraphs: [
       'Ju imagjinojmë me veshje ceremoniale, komodë dhe të ndritshëm: për burrat një kostum klasik (gri, blu, ngjyrë rëre ose i zi), për gratë një fustan elegant pasditeje — i gjatë, midi ose një jumpsuit i rafinuar.',
       'Jemi në shtator, mbi një kështjellë të varur mbi ujë: në orët e para drita është e ngrohtë, mbrëmjen ajri freskohet. Mbani pranë një shall, një xhaketë të lehtë ose një stollë.',
-      'Këpucët? Elegantë por komodë: shtroje guri, ndonjë shkallë dhe një tarracë mbi liqen — pa taka shumë të holla, ju falënderojnë këmbët dhe pista e vallëzimit.'
+      'Këpucët? Elegantë por komodë: shtroje guri, ndonjë shkallë dhe një tarracë mbi liqen — pa taka shumë të holla, ju falënderojnë këmbët dhe pista e kërcimit.'
     ],
     palette: [
       { name: 'Pluhur trëndafili', hex: '#e8b4bc' },
