@@ -241,7 +241,7 @@ export const config = {
   musicSrc: '/music.mp3',
 
   // Përdoret nga seksioni i ndarjes + metadata OG.
-  shareUrl: '',
+  shareUrl: 'https://wedding-invite-sq.vercel.app',
 
   // Hashtag për fotot e të ftuarve (opsionale).
   hashtag: '#KristjanaEHoussine2026'
