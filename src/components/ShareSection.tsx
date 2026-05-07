@@ -5,7 +5,7 @@ import { QRCodeSVG } from 'qrcode.react';
 import { config } from '@/lib/config';
 
 export default function ShareSection() {
-  const [url, setUrl] = useState(config.shareUrl || '');
+  const [url, setUrl] = useState<string>(config.shareUrl || '');
   const [copied, setCopied] = useState(false);
 
   useEffect(() => {
